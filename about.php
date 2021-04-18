@@ -11,7 +11,6 @@
 		<link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-		<h1>Hello kanwal</h1>
-      hsdfuhtuh
+		<h1>hi kiran</h1>
   </body>
 </html>
